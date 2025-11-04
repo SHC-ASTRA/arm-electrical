@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "Arm")(type "KiCad")(uri "${KIPRJMOD}/Arm.kicad_sym")(options "")(descr ""))
-  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Raspi/RASPBERRY_PI_4B_4GB.kicad_sym")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RASPBERRYPI/RASPBERRY_PI_4B_4GB.kicad_sym")(options "")(descr ""))
 )

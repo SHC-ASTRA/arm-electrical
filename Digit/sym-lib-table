@@ -4,4 +4,5 @@
   (lib (name "DRV887x")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DRV887x.kicad_sym")(options "")(descr ""))
   (lib (name "d24v22fx")(type "KiCad")(uri "${PROJLIB}/d24v22fx.kicad_sym")(options "")(descr ""))
   (lib (name "BD622xF")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BD622xF.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP 32 DOIT devkit V1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP 32 DOIT devkit V1.kicad_sym")(options "")(descr ""))
 )
