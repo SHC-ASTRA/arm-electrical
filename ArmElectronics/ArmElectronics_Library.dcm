@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AH1815-P-B
+D High Sensitivity Micropower Omnipolar Hall-Effect Switch, SIP-3
+K hall switch
+F https://www.diodes.com/assets/Datasheets/AH1806.pdf
+$ENDCMP
+#
+$CMP MAX11601
+D 4-channel single-ended or 2-channel, differential, 12-bit ADC, I2C, 4.096V internal reference, 8-MSOP package
+K adc i2c 4ch
+F https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf
+$ENDCMP
+#
+#End Doc Library

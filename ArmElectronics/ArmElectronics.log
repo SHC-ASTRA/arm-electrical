@@ -1,0 +1,62 @@
+STEP translation to Solid Edge
+Date: Sunday,November 22,2020 02:36AM
+Source File: C:\Users\Thomas\Documents\GitHub\Arm-Electronics\ArmElectronics\ArmElectronics.step
+Author: An Author
+Organization: A Company
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz
+Operating System: Windows 10 Professional
+Installed Memory: 31.93 GB
+
+Software Information
+Parasolid Version: 32.0.186
+PSBodyShop Version: 32.0.127
+Step Adapter Version: 5.0.107
+Solid Edge Version: 220.00.08.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Thomas\Documents\GitHub\Arm-Electronics\ArmElectronics
+Import Enable Default Output Path: On
+Import PMI: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+

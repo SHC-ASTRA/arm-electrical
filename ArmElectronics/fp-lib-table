@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ArmElectronics_Footprints)(type KiCad)(uri ${KIPRJMOD}/ArmElectronics_Footprints.pretty)(options "")(descr ""))
+  (lib (name Imported_Libraries)(type KiCad)(uri ${KIPRJMOD}/Imported_Libraries)(options "")(descr ""))
+  (lib (name ASTRA_Footprints)(type KiCad)(uri ${KIPRJMOD}/ASTRA_Footprints.pretty)(options "")(descr ""))
+)

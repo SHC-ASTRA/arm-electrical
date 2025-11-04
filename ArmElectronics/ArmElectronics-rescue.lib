@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Pololu_2851-AidenMiniLibrary
+#
+DEF Pololu_2851-AidenMiniLibrary U 0 40 Y Y 1 F N
+F0 "U" -100 -200 50 H V C CNN
+F1 "Pololu_2851-AidenMiniLibrary" -100 550 50 H V C CNN
+F2 "" -100 -200 50 H I C CNN
+F3 "" -100 -200 50 H I C CNN
+DRAW
+S 200 450 -400 -100 0 1 0 f
+X ENABLE 1 300 0 100 L 50 50 1 1 I
+X VIN 2 300 100 100 L 50 50 1 1 I
+X GND 3 300 200 100 L 50 50 1 1 I
+X GND 4 300 300 100 L 50 50 1 1 I
+X Vout 5 300 400 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

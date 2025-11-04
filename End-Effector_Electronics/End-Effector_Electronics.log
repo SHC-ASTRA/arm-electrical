@@ -1,0 +1,368 @@
+STEP translation to Solid Edge
+Date: Saturday,December 11,2021 09:58AM
+Source File: C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\End-Effector_Electronics.step
+Author: An Author
+Organization: A Company
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Operating System: Windows 10
+Installed Memory: 15.9 GB
+
+Software Information
+Parasolid Version: 31.1.255
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.48
+Solid Edge Version: 220.00.00.104 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics
+Import Enable Default Output Path: On
+Import PMI: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\End-Effector_Electronics.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\User_Library-XT30.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_0.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOT-23.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_1.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_2.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\PinHeader_2x05_P2.54mm_Vertical_SMD.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_3.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\PinSocket_2x20_P2.54mm_Vertical_SMD.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_4.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\Raspberry_Pi_4_Model_B.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\COMPOUND.par
+|--+Total Parts: 218
+|--+Assemblies: 0
+|--+Solid Bodies: 218
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SM4B-SRSS-TB.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\COMPOUND_0.par
+|--+Total Parts: 14
+|--+Assemblies: 0
+|--+Solid Bodies: 14
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\TI_SO-PowerPAD-8.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_5.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\i3a_001_out_step.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\COMPOUND_1.par
+|--+Total Parts: 46
+|--+Assemblies: 0
+|--+Solid Bodies: 32
+|--+Sheet Bodies: 14
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\TSSOP-8_4.4x3mm_P0.65mm.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_6.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\R_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOT-23-6.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_7.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\L_Wuerth_HCI-2212.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_8.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\22057045.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_9.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\22057045.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\D_SMC.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_10.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_1210_3225Metric.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_11.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_1210_3225Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_0603_1608Metric.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_12.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_0805_2012Metric.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_13.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_1210_3225Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_1210_3225Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_1210_3225Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\CP_Elec_6.3x5.4.asm
+|  |--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\SOLID_14.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\CP_Elec_6.3x5.4.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\trbin\Documents\GitHub\ASTRA_End-Effector_Electronics\End-Effector_Electronics\COMPOUND_2.par
++Total Parts: 21
++Assemblies: 19
++Solid Bodies: 2
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 54

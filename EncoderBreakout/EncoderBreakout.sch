@@ -1,0 +1,218 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Sensor_Magnetic:AS5047D U1
+U 1 1 603BEC24
+P 5700 4100
+F 0 "U1" H 5950 4700 50  0000 C CNN
+F 1 "AS5047D" H 5950 4600 50  0000 C CNN
+F 2 "Package_SO:TSSOP-14_4.4x5mm_P0.65mm" H 5700 3500 50  0001 C CNN
+F 3 "https://ams.com/documents/20143/36005/AS5047D_DS000394_2-00.pdf" H 4950 3550 50  0001 C CNN
+F 4 "AS5047D-ATSTCT-ND" H 5700 4100 50  0001 C CNN "Digikey Part Num"
+	1    5700 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0101
+U 1 1 603C10E0
+P 4950 4300
+F 0 "#PWR0101" H 4950 4150 50  0001 C CNN
+F 1 "+3.3V" H 4892 4337 50  0000 R CNN
+F 2 "" H 4950 4300 50  0001 C CNN
+F 3 "" H 4950 4300 50  0001 C CNN
+	1    4950 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 603C1980
+P 5700 4600
+F 0 "#PWR0102" H 5700 4350 50  0001 C CNN
+F 1 "GND" H 5705 4427 50  0000 C CNN
+F 2 "" H 5700 4600 50  0001 C CNN
+F 3 "" H 5700 4600 50  0001 C CNN
+	1    5700 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 603C22ED
+P 5700 3450
+F 0 "#PWR0103" H 5700 3300 50  0001 C CNN
+F 1 "+3.3V" H 5715 3623 50  0000 C CNN
+F 2 "" H 5700 3450 50  0001 C CNN
+F 3 "" H 5700 3450 50  0001 C CNN
+	1    5700 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3600 5700 3450
+$Comp
+L Device:C_Small C1
+U 1 1 603C3CD1
+P 5500 3450
+F 0 "C1" V 5271 3450 50  0000 C CNN
+F 1 "0.1u" V 5362 3450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5500 3450 50  0001 C CNN
+F 3 "~" H 5500 3450 50  0001 C CNN
+F 4 "311-1341-1-ND" H 5500 3450 50  0001 C CNN "Digikey Part Num"
+	1    5500 3450
+	0    1    1    0   
+$EndComp
+Connection ~ 5700 3450
+Wire Wire Line
+	5600 3450 5700 3450
+$Comp
+L power:GND #PWR0104
+U 1 1 603C5706
+P 5350 3450
+F 0 "#PWR0104" H 5350 3200 50  0001 C CNN
+F 1 "GND" H 5355 3277 50  0000 C CNN
+F 2 "" H 5350 3450 50  0001 C CNN
+F 3 "" H 5350 3450 50  0001 C CNN
+	1    5350 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 3450 5350 3450
+Wire Wire Line
+	4950 4300 5200 4300
+NoConn ~ 6200 3800
+NoConn ~ 6200 3900
+NoConn ~ 6200 4000
+NoConn ~ 6200 4200
+NoConn ~ 6200 4300
+NoConn ~ 6200 4400
+$Comp
+L power:GND #PWR0105
+U 1 1 603C6440
+P 5150 4600
+F 0 "#PWR0105" H 5150 4350 50  0001 C CNN
+F 1 "GND" H 5155 4427 50  0000 C CNN
+F 2 "" H 5150 4600 50  0001 C CNN
+F 3 "" H 5150 4600 50  0001 C CNN
+	1    5150 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 4600 5150 4400
+Wire Wire Line
+	5150 4400 5200 4400
+$Comp
+L Connector_Generic:Conn_01x06 J1
+U 1 1 603C69A3
+P 3650 3900
+F 0 "J1" H 3729 3800 50  0000 L CNN
+F 1 "Conn_01x06" H 3729 3891 50  0000 L CNN
+F 2 "Connector_JST:JST_PH_S6B-PH-K_1x06_P2.00mm_Horizontal" H 3650 3900 50  0001 C CNN
+F 3 "~" H 3650 3900 50  0001 C CNN
+F 4 "455-1723-ND" H 3650 3900 50  0001 C CNN "Digikey Part Num"
+	1    3650 3900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3850 4100 5200 4100
+Wire Wire Line
+	5200 4000 3850 4000
+Wire Wire Line
+	3850 3900 5200 3900
+Wire Wire Line
+	5200 3800 3850 3800
+$Comp
+L power:GND #PWR0106
+U 1 1 603C89E1
+P 4000 4200
+F 0 "#PWR0106" H 4000 3950 50  0001 C CNN
+F 1 "GND" H 4005 4027 50  0000 C CNN
+F 2 "" H 4000 4200 50  0001 C CNN
+F 3 "" H 4000 4200 50  0001 C CNN
+	1    4000 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 4200 4000 3700
+Wire Wire Line
+	4000 3700 3850 3700
+$Comp
+L power:+3.3V #PWR0107
+U 1 1 603C926E
+P 4000 3600
+F 0 "#PWR0107" H 4000 3450 50  0001 C CNN
+F 1 "+3.3V" H 4015 3773 50  0000 C CNN
+F 2 "" H 4000 3600 50  0001 C CNN
+F 3 "" H 4000 3600 50  0001 C CNN
+	1    4000 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 3600 4000 3600
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 603CAD18
+P 4100 4800
+F 0 "H4" H 4200 4846 50  0000 L CNN
+F 1 "MountingHole" H 4200 4755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4100 4800 50  0001 C CNN
+F 3 "~" H 4100 4800 50  0001 C CNN
+	1    4100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 603CB7EC
+P 4100 4600
+F 0 "H3" H 4200 4646 50  0000 L CNN
+F 1 "MountingHole" H 4200 4555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4100 4600 50  0001 C CNN
+F 3 "~" H 4100 4600 50  0001 C CNN
+	1    4100 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 603CBA0F
+P 3900 4800
+F 0 "H2" H 4000 4846 50  0000 L CNN
+F 1 "MountingHole" H 4000 4755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3900 4800 50  0001 C CNN
+F 3 "~" H 3900 4800 50  0001 C CNN
+	1    3900 4800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 603CBA19
+P 3900 4600
+F 0 "H1" H 4000 4646 50  0000 L CNN
+F 1 "MountingHole" H 4000 4555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 3900 4600 50  0001 C CNN
+F 3 "~" H 3900 4600 50  0001 C CNN
+	1    3900 4600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Graphic:SYM_Magnet_Small SYM1
+U 1 1 6046B51D
+P 6700 4100
+F 0 "SYM1" H 6700 4240 50  0001 C CNN
+F 1 "SYM_Magnet_Small" H 6700 3975 50  0001 C CNN
+F 2 "" H 6700 3925 50  0001 C CNN
+F 3 "~" H 6730 3900 50  0001 C CNN
+F 4 "469-1025-ND" H 6700 4100 50  0001 C CNN "Digikey Part Num"
+	1    6700 4100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
