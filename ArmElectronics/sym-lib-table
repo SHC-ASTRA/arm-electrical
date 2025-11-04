@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name ArmElectronics_Library)(type Legacy)(uri ${KIPRJMOD}/ArmElectronics_Library.lib)(options "")(descr ""))
-  (lib (name ArmElectronics-rescue)(type Legacy)(uri ${KIPRJMOD}/ArmElectronics-rescue.lib)(options "")(descr ""))
-  (lib (name 1792245)(type Legacy)(uri ${KIPRJMOD}/Imported_Libraries/1792245.lib)(options "")(descr ""))
-  (lib (name EE_Library)(type Legacy)(uri ${KIPRJMOD}/EE_Library.lib)(options "")(descr ""))
-)

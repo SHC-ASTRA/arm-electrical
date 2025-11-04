@@ -1,0 +1,216 @@
+Info: Processing symbol 'BT1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'D1:LED_SMD:LED_0201_0603Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0201_0603Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_0201_0603Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_0201_0603Metric'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Horizontal'.
+Info: Processing symbol 'J9:Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Horizontal'.
+Info: Processing symbol 'J10:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Horizontal'.
+Info: Processing symbol 'J11:Connector_USB:USB_A_TE_292303-7_Horizontal'.
+Info: Processing symbol 'J12:Connector_USB:USB3_A_Plug_Wuerth_692112030100_Horizontal'.
+Info: Processing symbol 'J20:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J21:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'PS1:D24V150F5:POLOLU_D24V150F5'.
+Info: Processing symbol 'U13:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'U1:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'U14:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U30:RASPBERRY_PI_4B_4GB:MODULE_RASPBERRY_PI_4B_4GB'.
+Info: Processing symbol 'U9:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U10:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U2:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U3:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'U11:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'U7:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'U8:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'U12:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U4:Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical'.
+Info: Processing symbol 'U5:DEV-16771:MODULE_DEV-16771'.
+Info: Processing symbol 'U6:Connector_JST:JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical'.
+Connected U30 pin 22 to /RPI_GPIO25.
+Connected U30 pin 24 to /RPI_CS0.
+Connected U30 pin 26 to /RPI_CS1.
+Connected U30 pin 27 to /RPI_ID_SC.
+Connected U30 pin 28 to /RPI_ID_SD.
+Add net unconnected-(U30-Pad29).
+Connected U30 pin 29 to unconnected-(U30-Pad29).
+Add net unconnected-(U30-Pad31).
+Connected U30 pin 31 to unconnected-(U30-Pad31).
+Connected U30 pin 33 to /RPI_GPIO13.
+Connected U30 pin 35 to /RPI_MISO0.
+Connected U30 pin 37 to /RPI_GPIO26.
+Connected U30 pin 39 to GND.
+Connected U30 pin 30 to GND.
+Connected U30 pin 32 to /RPI_GPIO12.
+Connected U30 pin 34 to GND.
+Connected U30 pin 36 to /RPI_GPIO16.
+Connected U30 pin 38 to /RPI_MOSI0.
+Connected U30 pin 40 to /RPI_SCLK0.
+Add net unconnected-(U30-Pad43).
+Connected U30 pin 43 to unconnected-(U30-Pad43).
+Add net unconnected-(U30-Pad41).
+Connected U30 pin 41 to unconnected-(U30-Pad41).
+Add net unconnected-(U30-Pad44).
+Connected U30 pin 44 to unconnected-(U30-Pad44).
+Add net unconnected-(U30-Pad42).
+Connected U30 pin 42 to unconnected-(U30-Pad42).
+Added U30 (footprint 'RASPBERRY_PI_4B_4GB:MODULE_RASPBERRY_PI_4B_4GB').
+Changed REF** reference designator to U30.
+Changed U30 value from MODULE_RASPBERRY_PI_4B_4GB to RASPBERRY_PI_4B_4GB.
+Updated U30 symbol association from  to /79ebc293-df30-47d9-a91f-5d67fdce587e.
+Updated U30 properties.
+Connected U30 pin S4 to GND.
+Connected U30 pin S3 to GND.
+Connected U30 pin S2 to GND.
+Connected U30 pin S1 to GND.
+Add net unconnected-(U30-Pad1).
+Connected U30 pin 1 to unconnected-(U30-Pad1).
+Connected U30 pin 3 to /RPI_SDA.
+Connected U30 pin 5 to /RPI_SCL.
+Connected U30 pin 7 to /RPI_GCLK0.
+Connected U30 pin 9 to GND.
+Connected U30 pin 11 to /RPI_GPIO17.
+Connected U30 pin 2 to /5V_RPI.
+Connected U30 pin 4 to /5V_RPI.
+Connected U30 pin 6 to GND.
+Connected U30 pin 8 to /RPI_TXD.
+Connected U30 pin 10 to /RPI_RXD.
+Connected U30 pin 12 to /RPI_GPIO18.
+Connected U30 pin 13 to /RPI_GPIO27.
+Connected U30 pin 14 to GND.
+Connected U30 pin 15 to /RPI_GPIO22.
+Connected U30 pin 17 to unconnected-(U30-Pad1).
+Connected U30 pin 19 to /RPI_MOSI.
+Connected U30 pin 21 to /RPI_MISO.
+Connected U30 pin 23 to /RPI_SCLK.
+Connected U30 pin 25 to GND.
+Connected U30 pin 16 to /RPI_GPIO23.
+Connected U30 pin 18 to /RPI_GPIO24.
+Connected U30 pin 20 to GND.
+Warning: No net found for symbol U6 pin 11.
+Warning: No net found for symbol U1 pin 1.
+Warning: No net found for symbol U1 pin 2.
+Warning: No net found for symbol U1 pin 3.
+Warning: No net found for symbol U1 pin 4.
+Warning: No net found for symbol U3 pin 1.
+Warning: No net found for symbol U3 pin 2.
+Warning: No net found for symbol U3 pin 3.
+Warning: No net found for symbol U3 pin 4.
+Warning: No net found for symbol U6 pin 1.
+Warning: No net found for symbol U6 pin 8.
+Warning: No net found for symbol U6 pin 9.
+Warning: No net found for symbol U6 pin 10.
+Warning: No net found for symbol U13 pin 4.
+Warning: No net found for symbol U6 pin 12.
+Warning: No net found for symbol U8 pin 1.
+Warning: No net found for symbol U8 pin 2.
+Warning: No net found for symbol U8 pin 3.
+Warning: No net found for symbol U8 pin 4.
+Warning: No net found for symbol U11 pin 1.
+Warning: No net found for symbol U11 pin 2.
+Warning: No net found for symbol U11 pin 3.
+Warning: No net found for symbol U11 pin 4.
+Warning: No net found for symbol U13 pin 1.
+Warning: No net found for symbol U13 pin 2.
+Warning: No net found for symbol U13 pin 3.
+Error: Cannot add PS1 (footprint 'D24V150F5:POLOLU_D24V150F5' not found).
+Error: J12 pad 11 not found in Connector_USB:USB3_A_Plug_Wuerth_692112030100_Horizontal.
+Error: U1 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U1 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U1 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U2 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U2 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U3 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U3 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U3 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U4 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U4 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U6 pad  not found in Connector_JST:JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical.
+Error: U6 pad  not found in Connector_JST:JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical.
+Error: U6 pad  not found in Connector_JST:JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical.
+Error: U6 pad  not found in Connector_JST:JST_EH_B12B-EH-A_1x12_P2.50mm_Vertical.
+Error: U7 pad 11 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 13 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 5 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 6 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 7 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 8 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 9 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 10 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 12 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U7 pad 14 not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U8 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U8 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U8 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U9 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U9 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U10 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U11 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U11 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U11 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U12 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U12 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U13 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U13 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U13 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U13 pad  not found in Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical.
+Error: U14 pad 11 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 13 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 7 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 8 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 9 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 10 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 12 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+Error: U14 pad 14 not found in Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical.
+
+
+Info: Total warnings: 0, errors: 80.

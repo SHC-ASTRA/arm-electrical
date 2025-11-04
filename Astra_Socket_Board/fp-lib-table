@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SC0915 (2)")(type "KiCad")(uri "C:/Users/bcalh/Desktop/SPARROW/ASTRA/SC0915 (2)")(options "")(descr ""))
+  (lib (name "XT60_YELLOW")(type "KiCad")(uri "C:/Users/bcalh/Desktop/SPARROW/ASTRA/XT60_YELLOW")(options "")(descr ""))
+  (lib (name "Wrist Library")(type "KiCad")(uri "${KIPRJMOD}/Wrist Library/Wrist Library.pretty")(options "")(descr ""))
+  (lib (name "DEV-15583")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/DEV-15583")(options "")(descr ""))
+  (lib (name "Socket_Library")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/Socket_Library.pretty")(options "")(descr ""))
+  (lib (name "ArmElectronics_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/ArmElectronics_Footprints.pretty")(options "")(descr ""))
+)

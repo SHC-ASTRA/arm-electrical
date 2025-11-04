@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name ASTRA_Footprints)(type KiCad)(uri ${KIPRJMOD}/ASTRA_Footprints.pretty)(options "")(descr ""))
-)
