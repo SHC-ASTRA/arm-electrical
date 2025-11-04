@@ -1,0 +1,159 @@
+(footprint "DPST CAN SWITCH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.001 -0.462 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "15629e04-d0a9-45b2-8390-adcbc14febc6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DPST CAN SWITCH"
+		(at -0.001 1.038 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c97b6461-2717-4fd0-90ef-db81e625f73d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -0.001 0.038 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c4cab23f-bb4e-4737-b25d-95331cf172f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.digikey.com/en/products/detail/cts-electrocomponents/204-211ST/267310"
+		(at -0.001 0.038 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb84f50e-b669-4234-87ac-25617bcc0735")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "https://www.digikey.com/en/products/detail/cts-electrocomponents/204-211ST/267310"
+		(at -0.001 0.038 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88c96bc1-7e9e-4e0a-9232-d0731b1e585a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5.588 2.032)
+		(end 5.842 6.858)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bfcfaad2-2e06-4bd8-81c5-b52cd5e45bcb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.0518 4.3922 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a8642c42-c0a4-4261-8475-5c4b4dea589f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -4.2058 3.0988)
+		(size 2.286 1.524)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "ec5c6506-5759-429a-bc1e-f9ce5e888cac")
+	)
+	(pad "2" smd roundrect
+		(at 4.3942 3.0988)
+		(size 2.286 1.524)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "d7af20a8-3592-4048-b239-5f2f48d915a0")
+	)
+	(pad "3" smd roundrect
+		(at -4.2058 5.6388)
+		(size 2.286 1.524)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "a0eabd81-f280-480e-958c-2f0907d56d69")
+	)
+	(pad "4" smd roundrect
+		(at 4.3942 5.6388)
+		(size 2.286 1.524)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "e84c218e-1e0b-4f1b-9b3a-24a4d3c679fb")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.CrtYd")
+		(uuid "fc318fd6-bb19-438f-831d-cc6d1eb83459")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -5.842 1.778) (xy -5.842 7.112) (xy 6.096 7.112) (xy 6.096 1.778)
+			)
+		)
+	)
+	(group ""
+		(uuid "1b33df76-4031-4e13-b8d4-326ee7cbd418")
+		(members "a0eabd81-f280-480e-958c-2f0907d56d69" "d7af20a8-3592-4048-b239-5f2f48d915a0"
+			"e84c218e-1e0b-4f1b-9b3a-24a4d3c679fb" "ec5c6506-5759-429a-bc1e-f9ce5e888cac"
+		)
+	)
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adafruit_feather_esp32_v2")(type "KiCad")(uri "${KIPRJMOD}/Libraries/adafruit_feather_esp32_v2.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV887x")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DRV887x.kicad_sym")(options "")(descr ""))
+  (lib (name "d24v22fx")(type "KiCad")(uri "${PROJLIB}/d24v22fx.kicad_sym")(options "")(descr ""))
+  (lib (name "BD622xF")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BD622xF.kicad_sym")(options "")(descr ""))
+)

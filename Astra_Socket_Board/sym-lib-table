@@ -1,9 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "SC0915")(type "KiCad")(uri "C:/Users/bcalh/Desktop/SPARROW/ASTRA/SC0915 (2)/SC0915.kicad_sym")(options "")(descr ""))
-  (lib (name "XT60_YELLOW")(type "KiCad")(uri "C:/Users/bcalh/Desktop/SPARROW/ASTRA/XT60_YELLOW/XT60_YELLOW.kicad_sym")(options "")(descr ""))
-  (lib (name "Wrist Lib")(type "KiCad")(uri "${KIPRJMOD}/Wrist Library/Wrist Lib.kicad_sym")(options "")(descr ""))
-  (lib (name "DEV-15583")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/DEV-15583/DEV-15583.kicad_sym")(options "")(descr ""))
-  (lib (name "Arm_symLibrary")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/Arm_symLibrary.kicad_sym")(options "")(descr ""))
-  (lib (name "ArmElectronics_Library")(type "KiCad")(uri "${KIPRJMOD}/Arm Library Downloads/ArmElectronics_Library.kicad_sym")(options "")(descr ""))
-)
