@@ -5226,13 +5226,14 @@
 		)
 		(uuid c33141cb-d317-4a7c-a60e-3eb43e4c3c08)
 	)
-	(text "Supply 5.0V\nMax Current 0.2A"
+	(text "Supply 5.0V\nMax Current 0.2A(Should be 0.02A)"
 		(exclude_from_sim no)
-		(at 226.314 102.87 0)
+		(at 218.44 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "09651ce2-65e3-4855-a1ba-55ef33f4110a")
 	)
@@ -5447,7 +5448,7 @@
 		)
 		(uuid "bb6d05ef-4929-4f08-9aff-e504d9b1c141")
 	)
-	(text "Supply 3.3V\nMax Current 0.3A"
+	(text "Supply 3.3V\nMax Current 1A?"
 		(exclude_from_sim no)
 		(at 168.91 158.75 0)
 		(effects
@@ -5467,7 +5468,7 @@
 		)
 		(uuid "d76dedda-43a8-46b4-9cfb-71278caa4f5f")
 	)
-	(text "Supply 12V\nMax Current 2.4A"
+	(text "Supply 12V\nMax Current 3A?"
 		(exclude_from_sim no)
 		(at 200.66 158.75 0)
 		(effects
@@ -14327,6 +14328,16 @@
 		)
 		(uuid "024c5e67-39fd-4157-95d8-0de50ddd3dbb")
 	)
+	(label "ESP0_RX-CAN_RX"
+		(at 73.66 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "055abe84-3f7e-41ab-a99a-8291274c45f8")
+	)
 	(label "Arm Motor CAN+"
 		(at 200.66 177.8 0)
 		(effects
@@ -14416,16 +14427,6 @@
 			(justify left bottom)
 		)
 		(uuid "40e7067a-a67b-456e-b76a-1f56ef1a0c0c")
-	)
-	(label "ESP0_RX-CAN_RX"
-		(at 73.66 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "43a5cb43-ba20-479b-8014-12882548f728")
 	)
 	(label "MOSI_ESP0"
 		(at 265.43 140.97 0)
@@ -14557,6 +14558,16 @@
 		)
 		(uuid "86c4164b-490b-4dae-82a3-281f159c2d48")
 	)
+	(label "ESP0_TX-CAN_TX"
+		(at 73.66 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8e529edc-9f0e-43ac-9b3a-89954d586d39")
+	)
 	(label "CLK_ESP0"
 		(at 265.43 146.05 0)
 		(effects
@@ -14686,16 +14697,6 @@
 			(justify left bottom)
 		)
 		(uuid "d37e1222-fd5d-4840-8a82-767419fd4460")
-	)
-	(label "ESP0_TX-CAN_TX"
-		(at 73.66 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d8925a95-4a7a-4daf-9935-9b68e06961d6")
 	)
 	(label "5V_ADC"
 		(at 20.32 135.89 0)
@@ -15537,7 +15538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.pololu.com/product/4095"
 			(at 38.1 190.5 0)
 			(effects
 				(font
@@ -18760,7 +18761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.pololu.com/product/3791"
 			(at 43.18 162.56 0)
 			(effects
 				(font
@@ -19499,7 +19500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.pololu.com/product/2851"
 			(at 83.82 163.83 0)
 			(effects
 				(font
