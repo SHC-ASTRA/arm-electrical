@@ -14328,16 +14328,6 @@
 		)
 		(uuid "024c5e67-39fd-4157-95d8-0de50ddd3dbb")
 	)
-	(label "ESP0_RX-CAN_RX"
-		(at 73.66 50.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "055abe84-3f7e-41ab-a99a-8291274c45f8")
-	)
 	(label "Arm Motor CAN+"
 		(at 200.66 177.8 0)
 		(effects
@@ -14347,6 +14337,16 @@
 			(justify left bottom)
 		)
 		(uuid "08a6661f-2b56-45af-8d36-acec6be075b9")
+	)
+	(label "CS_Encoder_2"
+		(at 73.66 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "09430eaf-5623-405b-8d1a-4c01e22c6873")
 	)
 	(label "ESP0_RX-CAN_RX"
 		(at 186.69 66.04 0)
@@ -14367,6 +14367,16 @@
 			(justify left bottom)
 		)
 		(uuid "186aea02-313e-48de-8d50-54787eb2f985")
+	)
+	(label "ESP0_TX-CAN_TX"
+		(at 73.66 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "191953d8-2fc6-4de8-b0f9-baffafcd8472")
 	)
 	(label "CS_Motor_CAN"
 		(at 73.66 86.36 0)
@@ -14408,6 +14418,16 @@
 		)
 		(uuid "2e75b8b0-15b0-4654-accc-5d78282ef9a5")
 	)
+	(label "ESP0_RX-CAN_RX"
+		(at 73.66 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f9c9e56-a7dd-4c8c-b4d3-1c5a028f6752")
+	)
 	(label "ESP0 3.3V"
 		(at 266.7 33.02 0)
 		(effects
@@ -14417,6 +14437,16 @@
 			(justify left bottom)
 		)
 		(uuid "3297e4a1-3a75-4c49-8366-f0fa59c18851")
+	)
+	(label "5V_ADC"
+		(at 73.66 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34d6e180-b669-45f5-a328-bcecd1002932")
 	)
 	(label "MISO_ESP0"
 		(at 85.09 96.52 0)
@@ -14529,16 +14559,6 @@
 		(uuid "66e74bbf-c7ad-4fca-8ef0-1096fffadc6f")
 	)
 	(label "CS_Encoder_2"
-		(at 73.66 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "723f50fd-73d6-4b08-a82f-eafe2bc7f5f7")
-	)
-	(label "CS_Encoder_2"
 		(at 170.18 137.16 0)
 		(effects
 			(font
@@ -14557,16 +14577,6 @@
 			(justify left bottom)
 		)
 		(uuid "86c4164b-490b-4dae-82a3-281f159c2d48")
-	)
-	(label "ESP0_TX-CAN_TX"
-		(at 73.66 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e529edc-9f0e-43ac-9b3a-89954d586d39")
 	)
 	(label "CLK_ESP0"
 		(at 265.43 146.05 0)
@@ -14737,16 +14747,6 @@
 			(justify left bottom)
 		)
 		(uuid "ea81a30b-12e5-4c12-8049-40297ece46cb")
-	)
-	(label "5V_ADC"
-		(at 73.66 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "edade3a4-3103-4299-a4eb-67916b436b5a")
 	)
 	(label "12V_ADC"
 		(at 45.72 135.89 0)
