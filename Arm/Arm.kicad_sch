@@ -14458,6 +14458,16 @@
 		)
 		(uuid "40e7067a-a67b-456e-b76a-1f56ef1a0c0c")
 	)
+	(label "BATT_ADC"
+		(at 73.66 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44394601-f3e3-4a85-ac40-283bf2efafa9")
+	)
 	(label "MOSI_ESP0"
 		(at 265.43 140.97 0)
 		(effects
@@ -14727,16 +14737,6 @@
 			(justify left bottom)
 		)
 		(uuid "e964de80-1cf6-4005-999a-23b0682d78ce")
-	)
-	(label "BATT_ADC"
-		(at 73.66 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ea81a30b-12e5-4c12-8049-40297ece46cb")
 	)
 	(label "12V_ADC"
 		(at 45.72 135.89 0)
