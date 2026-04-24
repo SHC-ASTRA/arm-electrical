@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.4,
-          "height": 3.3,
-          "width": 2.7
+          "drill": 0.0,
+          "height": 1.8,
+          "width": 2.1
         },
         "silk_line_width": 0.2,
         "silk_text_italic": false,
@@ -719,10 +719,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Arm V2 Gerbers/",
+      "plot": "Arm REV2 Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ArmV2.step",
       "svg": "",
       "vrml": ""
     },
